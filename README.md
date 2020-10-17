@@ -1,2 +1,2 @@
-# Cognitive-Complexity-Reducer
+# CC-Reducer
 A Cognitive Complexity reducer tool
